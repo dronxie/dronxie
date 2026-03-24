@@ -3,6 +3,14 @@ This repository is a curated compilation of notes on concepts I've studied and w
 
 ---
 
+## Skills
+- **Operating Systems** : Windows, Linux
+- **Tools** : Hydra, Hashcat, nmap, BurpSuite
+- **Forensics** : disk, image and log analysis
+- **Programming Language** : C, C++, Python, Java
+
+---
+
 ## Structure
 - [CTF Writeups](#ctf-writeups)
 - [Notes](#Notes)
