@@ -29,6 +29,7 @@ This repository is a curated compilation of notes on concepts I've studied and w
 ## CTF-writeups
   1. TryHackMe
      - Bounty Hacker [Read here](https://medium.com/@dronjx/bounty-hacker-9c2cfc079931)
+     - Dev Diaries [Read here](https://medium.com/@dronjx/dev-diaries-cf5695fffe72)
 
 ---
 
