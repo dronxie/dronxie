@@ -15,7 +15,7 @@ This repository serves as a technical portfolio documenting my journey in Vulner
 ---
 
 # Profiles
-- **TryHackMe** : Ranked in Top 5% (1,00,034) [link](https://tryhackme.com/p/anjalicy)
+- **TryHackMe** : Ranked in Top 5% (99173) [link](https://tryhackme.com/p/anjalicy)
 - **picoCTF** : 45 Easy, 5 Medium Challenges Solved [link](https://play.picoctf.org/users/anjalicy)
 
 ---
