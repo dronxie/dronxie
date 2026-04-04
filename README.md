@@ -15,7 +15,7 @@ This repository serves as a technical portfolio documenting my journey in Vulner
 ---
 
 # Profiles
-- **TryHackMe** : Ranked in Top 5% (99173) [link](https://tryhackme.com/p/anjalicy)
+- **TryHackMe** : Ranked in Top 5% (97852) [link](https://tryhackme.com/p/anjalicy)
 - **picoCTF** : 45 Easy, 5 Medium Challenges Solved [link](https://play.picoctf.org/users/anjalicy)
 
 ---
@@ -49,7 +49,10 @@ This repository serves as a technical portfolio documenting my journey in Vulner
 ---
 
 # Stuff-Simplified
-- Linux [Read here](https://www.notion.so/Linux-32dcf3d807e0800bbad8fff743523b0c)
+- Operating systems:
+  - Linux [Read here](https://www.notion.so/Linux-32dcf3d807e0800bbad8fff743523b0c)
+- Tools:
+  -  CyberChef : [Read here](https://upbeat-workshop-054.notion.site/CyberChef-338cf3d807e080da84f6ff39cef89989)
 - OWASP Top 10 : [Read here](https://www.notion.so/337cf3d807e08015a4a3e421fa3ce9db?pvs=25#337cf3d807e080529053f3c87a1db0e7)
 <!-- [- Digital forensics [Read here](https://www.notion.so/Digital-Forensics-simplified-334cf3d807e080ab89c6d7fbe50c0003)] -->
 
